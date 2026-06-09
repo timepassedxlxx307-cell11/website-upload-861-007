@@ -1,0 +1,13 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "html_page_count": 2025,
+  "all_movies_page_card_count": 2000,
+  "collection_page_count": 20,
+  "collection_min_count": 100,
+  "collection_max_count": 100,
+  "baidu_missing_count": 0,
+  "missing_detail_count": 0,
+  "jpg_file_count": 0,
+  "sample_player_bad_count": 0
+}
